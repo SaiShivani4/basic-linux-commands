@@ -9,3 +9,5 @@
 -touch(creat a new file)
 - nano(edit file)
 - cat(file descreption)
+## clone the repository
+- git clone repositorylink
