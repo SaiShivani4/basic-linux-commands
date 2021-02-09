@@ -11,3 +11,5 @@
 - cat(file descreption)
 ## clone the repository
 - git clone repositorylink
+## intialise the git
+- git init
